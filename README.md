@@ -1,4 +1,6 @@
 # Coding Homework for Week 1
+[This project has been archived. Please check another same-name repo.]
+
 
 This homework will have you demonstrate that:
 
